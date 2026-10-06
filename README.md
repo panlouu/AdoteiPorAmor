@@ -26,7 +26,6 @@ O aplicativo utiliza 3 sensores essenciais do dispositivo para enriquecer a expe
 GPS: Para localização e mapeamento geográfico dos animais e dos adotantes.
 Imagens: Integração nativa com a câmera ou galeria do aparelho para captura e exibição das fotos dos pets.
 Rotação (Giroscópio/Acelerômetro): Captura a orientação espacial do aparelho para realizar ajustes dinâmicos de layout conforme a inclinação do dispositivo.
-
 🚀 Como Instalar e Executar
 Siga os passos abaixo para clonar, instalar as dependências e rodar o projeto em seu ambiente de desenvolvimento.
 
@@ -40,3 +39,8 @@ Para iniciar o servidor de desenvolvimento do Expo, execute:
 npx expo start
 npm start
 Dica: Use o aplicativo Expo Go no seu celular físico para ler o QR Code gerado no terminal ou pressione a para rodar no emulador Android / i para o simulador iOS.
+
+👥 Integrantes do Projeto
+Luiz Eduardo Lima Coimbra Vinhas - Matrícula: 01803321
+Vinícius Costa - Matrícula: 01796490
+Laryssa Eduarda Nascimento dos Santos - Matrícula: 01814
